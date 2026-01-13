@@ -1,5 +1,4 @@
 # Technical-proposal
-This proposal transforms passive matter into active material. By utilizing "Golden events" topology and "fast cooling" technology for flux exclusion, we propose creating a shielded region of spacetime where inertia is a selectable parameter, not a constant.
 TECHNICAL PROPOSAL: Reactor for Inertia Modulation via
 Resonant Field Exclusion (RIM-FE)
 Author: [Your Name/Initials] Date: January 12, 2026 Core Thesis: Inertial mass is a consequence
